@@ -1,10 +1,10 @@
 # config.py
 
 # 🔐 Telegram Bot Token (replace with your actual token)
-BOT_TOKEN = "your_telegram_bot_token_here"
+BOT_TOKEN = "7887330354:AAGUAJf_GBYGh3DExWecX8B6kd3R8KTBFQ8"
 
 # 👑 Admin User IDs (Telegram numeric user IDs)
-ADMINS = [123456789, 987654321]  # Replace with actual admin Telegram IDs
+ADMINS = [1948138813]  # Replace with actual admin Telegram IDs
 
 # 📁 File path for storing scammer & report data (if you're using JSON)
 SCAMMER_DATA_FILE = "scammers.json"
